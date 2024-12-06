@@ -1,6 +1,6 @@
 # Roseate tern genetics manuscript
 
-**Description:** Scripts to reproduce analyses reported in Dayton & Szczys ([2021](https://doi.org/10.1093/ornithapp/duab037)); Metapopulation connectivity retains genetic diversity following a historical bottleneck in a federally endangered seabird
+**Description:** Scripts to reproduce analyses reported in Dayton & Szczys (2021); [Metapopulation connectivity retains genetic diversity following a historical bottleneck in a federally endangered seabird](https://doi.org/10.1093/ornithapp/duab037)
 
 **Date:** 2020/06/09
 - Data files provided in "Data" folder
